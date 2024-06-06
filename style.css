@@ -1,9 +1,9 @@
-/* *{
+{
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-}
-
+} 
+ 
 
 body{
     background-color: rgb(147, 207, 207);
@@ -20,4 +20,4 @@ body{
 }
 h1{
     margin-bottom: 20px;
-} */
+}
